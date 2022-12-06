@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "BIO"
+    url: "/#BIO"
 
   - title: "EDUCATION"
-    url: "/#-EDUCATION"
+    url: "/#EDUCATION"
 
   - title: "SELECTED PUBLICATIONS"
-    url: "/#-SELECTED PUBLICATIONS"
+    url: "/#SELECTED PUBLICATIONS"
 
   - title: "EMPLOYMENT"
-    url: "/#-EMPLOYMENT"
+    url: "/#EMPLOYMENT"
 
   - title: "TEACHING"
-    url: "/#-TEACHING"
+    url: "/#TEACHING"
 
   - title: "HONORS"
-    url: "/#-HONORS"
+    url: "/#HONORS"
 
   - title: "PROJECT"
-    url: "/#-PROJECT"
+    url: "/#PROJECT"
