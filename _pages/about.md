@@ -19,13 +19,13 @@ redirect_from:
 
 # BIO
 
-Wei Liu is professor and director of the Department of Microelectronics at Wuhan University. His team is currently working on EDA technology, RISC-V chip design including analog and digital hybrid chip design and sensor chip design, AI accelerator and FPGA design and many other aspects. They have a lot of ongoing projects. Liu earned his doctorate in microelectronics from Wuhan University, and he was a visiting scholar at Johns Hopkins University(JHU) from 2015 to 2016.
+Wei Liu is professor and director of the Department of Microelectronics at Wuhan University. His team is currently working on EDA technology, RISC-V chip design including analog and digital hybrid chip design and sensor chip design, AI accelerator and FPGA design and many other aspects. They have a lot of ongoing projects. Liu earned his Ph.D. in microelectronics from Wuhan University, and he was a visiting scholar at Johns Hopkins University(JHU) from 2015 to 2016.
 
 Professor Liu has a wide range of research interests in digital chip design and integrated circuit processes including on-board intelligent chips, high frequency image processing chips, and AI accelerators with heterogeneous FPGA-CPU. He is involved in several ongoing projects in such areas as noval computer architecture for AI acceleration, analog and digital hybrid chip design, sensor chip design.
 
 Additionally, The lab has a full set of authentic EDA design tools and software, a large server workstation, and can use a large computing center and a large GPU cluster!
 
-**Professor Liu expected to recurit 1-2 students in the Fall 2023 admision cycle. If you are interested in working with Liu, feel free to reach out!**
+**Professor Liu expected to recurit several graduates and post-doctorates. If you are interested in working with Liu, feel free to reach out!**
 
 
 #  EDUCATION
