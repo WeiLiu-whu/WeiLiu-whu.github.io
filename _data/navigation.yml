@@ -6,8 +6,8 @@ main:
   - title: "EDUCATION"
     url: "/#education"
 
-  - title: "SELECTED PUBLICATIONS"
-    url: "/#selected%20publications"
+  - title: "PUBLICATIONS"
+    url: "/#publications"
 
   - title: "EMPLOYMENT"
     url: "/#employment"
