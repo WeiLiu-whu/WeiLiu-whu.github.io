@@ -35,6 +35,7 @@ Additionally, The lab has a full set of authentic EDA design tools and software,
 - Professor of department of Microelectronics, Wuhan University
 - Director of Integrated circuit "Future Technology Elite Class" project in Wuhan University-Hua Wei
 - Professor of department of Physics, Wuhan University
+
 ### SOCIAL PART-TIME
 - Deputy Secretary-General of Hubei Physical Society
 - Director of Hubei Semiconductor Association
@@ -47,6 +48,7 @@ Additionally, The lab has a full set of authentic EDA design tools and software,
 - Artificial Circuit
 - Digital Integrated Circuit Design
 - Synthetic Experiment of Silicon Chip Manufacturing Technology
+
 ### Courses for graduate
 - Advanced Digital Integrated Circuit Design
 
