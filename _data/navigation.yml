@@ -4,19 +4,19 @@ main:
     url: "/#BIO"
 
   - title: "EDUCATION"
-    url: "/#EDUCATION"
+    url: "/#education"
 
   - title: "SELECTED PUBLICATIONS"
-    url: "/#SELECTED PUBLICATIONS"
+    url: "/#selected publications"
 
   - title: "EMPLOYMENT"
-    url: "/#EMPLOYMENT"
+    url: "/#employment"
 
   - title: "TEACHING"
-    url: "/#TEACHING"
+    url: "/#teaching"
 
   - title: "HONORS"
-    url: "/#HONORS"
+    url: "/#honors"
 
   - title: "PROJECT"
-    url: "/#PROJECT"
+    url: "/#project"
