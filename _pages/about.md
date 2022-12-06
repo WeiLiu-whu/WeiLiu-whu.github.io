@@ -25,12 +25,12 @@ Professor Liu has a wide range of research interests in digital chip design and 
 
 Additionally, The lab has a full set of authentic EDA design tools and software, a large server workstation, and can use a large computing center and a large GPU cluster!
 
-**Professor Liu expected to recurit several graduates and post-doctorates. If you are interested in working with Liu, feel free to reach out!**
+**Professor Liu expected to recurit several graduates and Postdocs. If you are interested in working with Liu, feel free to reach out!**
 
 
 #  EDUCATION
 -  Ph.D.(Microelectronics) from Wuhan University, 2008
--  M.S.(microelectronics)from Wuhan University, 2003
+-  M.S.(Microelectronics)from Wuhan University, 2003
 
 #  PUBLICATIONS 
 - Graphene Oxide Based Fluorescent DNA Aptasensor for Liver Cancer Diagnosis and Therapy,Ke Ma,Wei Xie,Lei Wang,Dong Wang,Ben Zhong Tang*,Wei Liu* **Adv. Funct. Mater.**    31,2102645,2021  
