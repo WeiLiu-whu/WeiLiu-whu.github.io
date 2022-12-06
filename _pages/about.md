@@ -32,7 +32,7 @@ Additionally, The lab has a full set of authentic EDA design tools and software,
 -  Ph.D.(Microelectronics) from Wuhan University, 2008
 -  M.S.(microelectronics)from Wuhan University, 2003
 
-#  SELECTED PUBLICATIONS 
+#  PUBLICATIONS 
 - Graphene Oxide Based Fluorescent DNA Aptasensor for Liver Cancer Diagnosis and Therapy,Ke Ma,Wei Xie,Lei Wang,Dong Wang,Ben Zhong Tang*,Wei Liu* **Adv. Funct. Mater.**    31,2102645,2021  
 - Controlled Growth of Hierarchical Bi2Se3/CdSe-Au Nanorods with Optimized Photothermal Conversion and Demonstrations in Photothermal Therapy,Liu, XD;Chen, B;Wang, GG ;Ma, S ;Cheng, L;Liu, Wei*; Zhou, Li*; Wang, Qu-Quan* **Adv. Funct. Mater.** 31,2104424,2021
 - Cancer Cell Membrane-Coated Nanoparticles for Personalized Therapy in Patient-Derived Xenograft Models,Rao, Lang; Wang, Wenbiao; Meng, Qian-Fang; Chen Xiaoyuan*, Sun Zhijun*, Liu Wei* **Adv. Funct. Mater.**   Volume:  29    Issue:  10      1905671   2019 
